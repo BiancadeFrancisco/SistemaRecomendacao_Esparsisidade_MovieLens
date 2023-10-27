@@ -1,4 +1,4 @@
-# SistemaRecomendacao_analisedataset_MovieLens
+# SistemaRecomendacao_analisefilmes
 
 ## Descrição Projeto
 
